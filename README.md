@@ -1,3 +1,11 @@
+Hi, I am Akhil Suresh
+Student ID: 8701587
+College: Conestoga
+Campus: Waterloo
+Program: Graduate Certificate in Computer Application Development
+
+Assignment 3 - INFO2300 - Project Development
+
 # Introduction
 
 [![npm version](https://img.shields.io/npm/v/admin-lte/latest.svg)](https://www.npmjs.com/package/admin-lte)
