@@ -1,10 +1,14 @@
-Hi, I am Akhil Suresh
-Student ID: 8701587
-College: Conestoga
-Campus: Waterloo
-Program: Graduate Certificate in Computer Application Development
+# Hi, I am Akhil Suresh
 
-Assignment 3 - INFO2300 - Project Development
+# Student ID: 8701587
+
+# College: Conestoga
+
+# Campus: Waterloo
+
+# Program: Graduate Certificate in Computer Application Development
+
+# Assignment 3 - INFO2300 - Project Development
 
 # SOURCE - GITHUB
 
